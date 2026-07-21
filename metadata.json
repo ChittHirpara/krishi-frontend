@@ -1,0 +1,8 @@
+{
+  "name": "Krishi Raksha",
+  "description": "An AI crop-disease diagnosis platform for Indian farmers. Foundation and design system phase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
